@@ -1,19 +1,19 @@
 <!--
 <h2 align="center">
-  Welcome to banfbi World!
+  Welcome to brundindev World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 <!--
 <p align="center">
-  <a href="https://github.com/banfbi"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/brundindev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=banfbi">
-  <img align="right" src="https://komarev.com/ghpvc/?username=banfbi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=brundindev">
+  <img align="right" src="https://komarev.com/ghpvc/?username=brundindev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/banfbi">banfbi</a></b>
+                <b><a target="_blank" href="https://github.com/brundindev">brundindev</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=banfbi">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=brundindev">「 Google Me 」</a>
     <br>
     「 I am a Front/Back-End Web developer from <b>Spain</b> 」
     <br>
@@ -38,23 +38,23 @@
 </p>
 
 <p align="center">
- <a href="https://banfbi.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="banfbi" />
+ <a href="https://brundindev.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="brundindev" />
  </a>
- <a href="https://linkedin.com/in/banfbi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="banfbi"/>
+ <a href="https://linkedin.com/in/brundindev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brundindev"/>
  </a>
- <!-- <a href="https://dev.to/banfbi" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="banfbi" />
+ <!-- <a href="https://dev.to/brundindev" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brundindev" />
  </a> -->
- <a href="https://twitter.com/_banfbi" target="_blank">
+ <a href="https://twitter.com/_brundindev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_banfbi" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="banfbi" />
+ <a href="https://instagram.com/_brundindev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="brundindev" />
  </a> 
- <a href="https://facebook.com/banfbi.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="banfbi"  />
+ <a href="https://facebook.com/brundindev.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="brundindev"  />
   </a> 
 </p>
 <br />
@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: banfbi.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/banfbi/banfbi/issues)
+ 📧 &emsp; Reach me anytime: brundindev.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/brundindev/brundindev/issues)
 
 </p>
 
@@ -102,16 +102,16 @@
 <br/>
 
 ## Top Open Source -
-[![Juego UNO](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Tres-En-Raya&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Tres-En-Raya)
-[![Juego Ahorcado](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego_Ahorcado&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego_Ahorcado)
-[![Juego UNO](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego-UNO&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego-UNO)
-[![Juego Tragaperras (Slots Machines)](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego_Tragaperras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego_Tragaperras)
-[![API NASA](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=API-NASA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/API-NASA)
-[![Juego Adivinar Número](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego_Adivinar_Numero_Fetch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego_Adivinar_Numero_Fetch)
-<!--[![API NASA](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=API-NASA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/API-NASA)-->
+[![Juego UNO](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Tres-En-Raya&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Tres-En-Raya)
+[![Juego Ahorcado](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Ahorcado&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Ahorcado)
+[![Juego UNO](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego-UNO&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego-UNO)
+[![Juego Tragaperras (Slots Machines)](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Tragaperras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Tragaperras)
+[![API NASA](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=API-NASA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/API-NASA)
+[![Juego Adivinar Número](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Adivinar_Numero_Fetch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Adivinar_Numero_Fetch)
+<!--[![API NASA](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=API-NASA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/API-NASA)-->
 
 <p align="left">
-  <a href="https://github.com/banfbi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/brundindev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -119,22 +119,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/banfbi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=banfbi&theme=radical&border=7F3FBF&background=0D1117" alt="Banfbi's GitHub streak"/>
+  <a href="https://github.com/brundindev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brundindev&theme=radical&border=7F3FBF&background=0D1117" alt="brundindev's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/banfbi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=banfbi&theme=radical" alt="Banfbi's GitHub Contribution"/>
+  <a href="https://github.com/brundindev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brundindev&theme=radical" alt="brundindev's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/banfbi"><img alt="Banfbi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=banfbi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/banfbi"><img alt="Banfbi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=banfbi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/brundindev"><img alt="brundindev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=brundindev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/brundindev"><img alt="brundindev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=brundindev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Banfbi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=banfbi&custom_title=Banfbi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![brundindev's Graph](https://github-readme-activity-graph.vercel.app/graph?username=brundindev&custom_title=brundindev's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
