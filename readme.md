@@ -103,7 +103,7 @@
 
 ## Top Open Source -
 [![Juego UNO](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Tres-En-Raya&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Tres-En-Raya)
-[![Juego Ahorcado](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Ahorcado&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Ahorcado)
+[![Juego Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Blackjack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Blackjack)
 [![Juego UNO](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego-UNO&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego-UNO)
 [![Juego Tragaperras (Slots Machines)](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Tragaperras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Tragaperras)
 [![Juego Ahorcado Python](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Juego_Ahorcado_Python&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Juego_Ahorcado_Python)
