@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=brundindev">「 Google Me 」</a>
     <br>
-    「 I am a Front/Back-End Web developer from <b>Spain</b> 」
+    「 I am a Front/Back-End developer from <b>Spain</b> 」
     <br>
     <br>
   </samp>
