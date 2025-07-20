@@ -47,7 +47,7 @@
  <!-- <a href="https://dev.to/brundindev" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brundindev" />
  </a> -->
- <a href="https://twitter.com/brundindev" target="_blank">
+ <a href="https://x.com/brundindev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/brundindev" target="_blank">
@@ -101,6 +101,7 @@
 ## Top Open Source -
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/Portfolio)
 [![PASSWD. - Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=passwd.&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/passwd.)
+[![Fyndit - Second-Hand Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=fyndit&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/fyndit)
 [![PASSWD. WEB - Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=passwd_web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/passwd_web)
 [![PASSWD. WEB Extension - Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=passwd_web_extension&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/passwd_web_extension)
 [![ImpulseData](https://github-readme-stats.vercel.app/api/pin/?username=brundindev&repo=ImpulseData&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/brundindev/ImpulseData)
